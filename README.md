@@ -1,5 +1,9 @@
 <h1><u><b>เขียนออกแบบและพัฒนาโดย NAVyDESIGn</b></u></h1>
 
+เข้าไปแก้หน้าเว็บด้วยการ Login
+USERNAME : navydesign
+PASSWORD : navydesignpage
+
 ดูตัวอย่างได้ที่ : https://www.youtube.com/watch?v=sbrAduXXiBE
 
 นำไฟล์ sql จากโฟลเดอร์ DATABASE FILE
