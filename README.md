@@ -1,8 +1,8 @@
 <h1><u><b>เขียนออกแบบและพัฒนาโดย NAVyDESIGn</b></u></h1>
 
-เข้าไปแก้หน้าเว็บด้วยการ Login
-USERNAME : navydesign
-PASSWORD : navydesignpage
+<b>เข้าไปแก้หน้าเว็บด้วยการ Login</p></b>
+<b>USERNAME</b> : navydesign</p>
+<b>PASSWORD</b> : navydesignpage</p>
 
 ดูตัวอย่างได้ที่ : https://www.youtube.com/watch?v=sbrAduXXiBE
 
