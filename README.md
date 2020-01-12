@@ -1,4 +1,6 @@
-เขียนออกแบบและพัฒนาโดย NAVyDESIGn
+<b>เขียนออกแบบและพัฒนาโดย NAVyDESIGn</b>
+
+ดูตัวอย่างได้ที่ : https://www.youtube.com/watch?v=sbrAduXXiBE
 
 นำไฟล์ sql จากโฟลเดอร์ DATABASE FILE
 
