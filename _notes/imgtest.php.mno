@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_test" value="name:id;datatype:int,name:u_name;datatype:string,name:p_word;datatype:string,name:SID;datatype:string,name:e_mail;datatype:string,name:pay_point;datatype:int,name:reward_point;datatype:int,name:level;datatype:int,name:user_exp;datatype:int,name:max_exp;datatype:int,name:user_level;datatype:string,name:user_img;datatype:string" />
+</info>
