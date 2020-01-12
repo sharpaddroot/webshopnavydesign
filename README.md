@@ -3,9 +3,11 @@
 <b>เข้าไปแก้หน้าเว็บด้วยการ Login</p></b>
 <b>USERNAME</b> : navydesign</p>
 <b>PASSWORD</b> : navydesignpage</p>
-
+<b>หรือเข้าฐานข้อมูลไปที่ user_profile แล้วเปลี่ยนค่าใน column : user_level จาก guest เป็น actor ใน user ที่ต้องการให้เป็นผู้ดูแลระบบ</b></p>
+<b>อย่าลืมแก้ไข database ที่ Connections/myconnect.php</b></p>
+</p>
 ดูตัวอย่างได้ที่ : https://www.youtube.com/watch?v=sbrAduXXiBE
-
+</p>
 นำไฟล์ sql จากโฟลเดอร์ DATABASE FILE
 
 <h3><i><b>---------------------------------ระบบหลังบ้าน----------------------------------</b></i></h3>
