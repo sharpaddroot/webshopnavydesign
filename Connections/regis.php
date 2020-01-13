@@ -10,12 +10,6 @@
 <?php require_once('Connections/myconnect.php'); ?>
 <?php
 
-$hostname_myconnect = "localhost";
-$database_myconnect = "userdata";
-$username_myconnect = "root";
-$password_myconnect = "12345678";
-$myconnect = mysql_pconnect($hostname_myconnect, $username_myconnect, $password_myconnect) or trigger_error(mysql_error(),E_USER_ERROR); 
-
 if($_POST['pass'] != $_POST['conpass']){
 	echo "<script type=\"text/javascript\">";
 	echo "swal({title: \"รหัสผ่านไม่ตรงกัน\",
