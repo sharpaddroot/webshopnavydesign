@@ -1,11 +1,11 @@
 -- phpMyAdmin SQL Dump
--- version 4.6.6
+-- version 4.6.2
 -- https://www.phpmyadmin.net/
 --
 -- Host: localhost
--- Generation Time: Jan 12, 2020 at 02:19 PM
--- Server version: 5.7.17-log
--- PHP Version: 5.6.30
+-- Generation Time: Jan 13, 2020 at 08:08 AM
+-- Server version: 5.7.13-log
+-- PHP Version: 5.6.22
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 SET time_zone = "+00:00";
@@ -212,7 +212,7 @@ CREATE TABLE `web_setting` (
 --
 
 INSERT INTO `web_setting` (`config_id`, `webname`, `webstatus`, `version`, `ip`, `fbpage`, `slide1_img`, `slide2_img`, `slide3_img`, `background_img`, `video_link`, `text_run`, `web_logo`, `install_gamelink`) VALUES
-(1, 'NAVyDESIGN', 'ยังไม่เปิดให้บริการ', '0.0.1 (Beta)', '127.0.0.1', 'navydesignpage', 'slide1.jpg', 'slide2.jpg', 'slide3.jpg', 'background.jpg', 'TgbqBx4NthI', 'ตัวอย่างการแสดงผลอักษรวิ่ง NAVyDESIGN\r\n', 'logo.png', 'ไม่มีลิ้งค์ใดๆ');
+(1, 'NAVyDESIGN', 'ยังไม่เปิดให้บริการ', '0.0.1 (Beta)', '127.0.0.1', 'nanydesignpage', 'slide1.jpg', 'slide2.jpg', 'slide3.jpg', 'background.jpg', 'sbrAduXXiBE', 'ตัวอย่างการแสดงผลอักษรวิ่ง NAVyDESIGN\r\n', 'logo.png', 'ไม่มีลิ้งค์ใดๆ');
 
 --
 -- Indexes for dumped tables
